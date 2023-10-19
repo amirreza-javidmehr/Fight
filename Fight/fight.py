@@ -5,7 +5,8 @@ from pgzhelper import *
 os.environ["SDL_VIDEO_CENTERED"] = "1"
 WIDTH = 1000
 HEIGHT = 562
-TITLE = "Fight"
+TITLE = "AmirReza Fight Game"
+x = 10
 #_____________Sound________________
 sounds.menu.play()
 #_____________Actor________________
